@@ -1,6 +1,4 @@
-Olá! Eu sou a Andressa 👋
-
-⭐ Sou uma futura DEV
+Olá! Eu sou a Andressa 
 
 💫 Sou estudante de Administração 
 
